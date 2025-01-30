@@ -35,6 +35,8 @@ The dataset is divided into multiple sheets, each providing crucial information:
 - **Leverage Machine Learning for Sales Forecasting** 🤖: Utilize predictive models to anticipate future sales trends and improve inventory management.
 - **Optimize Pricing Strategies** 💲: Conduct price elasticity analysis to determine the most effective pricing approach.
 
+## **Dashboard** 📊
+![Dashboard](https://github.com/Sayali821/Coffee-Sale/blob/e401b5436dfbe57ead42ea7dce7f7ba6c40b8e12/dashboard.jpg)
 ---
 
 📌 **Author:** Sayali Bhosale  
