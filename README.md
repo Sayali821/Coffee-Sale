@@ -1,3 +1,5 @@
+![Coffee Sales](https://github.com/Sayali821/Coffee-Sale/blob/dc1077cda0e0d930b9297119979e161bb7a767b5/espresso-coffee-cup-coffee-beans_79603-1038.jpg)
+
 # **Coffee Sales Analysis** ☕📊
 
 ## **Project Overview** 🏢
